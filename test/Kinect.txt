@@ -1,0 +1,742 @@
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at 0.075843,0.0341588,2.19782
+   SpineMid tracked
+       SpineMid at 0.0798898,0.369173,2.19618
+   Neck tracked
+       Neck at 0.0834799,0.691195,2.18182
+   Head tracked
+       Head at 0.106892,0.838627,2.144
+   Left shoulder tracked
+       Left Shoulder at -0.0797415,0.562389,2.18853
+   ElbowLeft tracked
+       ElbowLeft at -0.156665,0.310705,2.2332
+   WristLeft tracked
+       WristLeft at -0.21115,0.10202,2.17321
+   Left hand tracked
+       Left hand at -0.227782,0.0108296,2.14007
+   Right shoulder tracked
+       Right Shouler at 0.249674,0.53838,2.14489
+   ElbowRight tracked
+       ElbowRight at 0.327078,0.305694,2.19272
+   WristRight tracked
+       WristRight at 0.370662,0.0846191,2.13271
+   Right hand tracked
+       Right hand at 0.375746,0.000960028,2.10204
+   HipLeft tracked
+       HipLeft at -0.00160554,0.035589,2.16753
+   KneeLeft tracked
+       KneeLeft at -0.0661182,-0.379288,2.17749
+   AnkleLeft tracked
+       AnkleLeft at -0.108297,-0.751987,2.18229
+   FootLeft tracked
+       FootLeft at -0.138765,-0.811729,2.05352
+   HipRight tracked
+       HipRight at 0.15069,0.0314877,2.15008
+   KneeRight tracked
+       KneeRight at 0.213803,-0.371155,2.18456
+   AnkleRight tracked
+       AnkleRight at 0.251551,-0.74942,2.21376
+   FootRight tracked
+       FootRight at 0.263669,-0.821204,2.13936
+   SpineShoulder tracked
+      SpineShoulder at 0.0826807,0.612507,2.18765
+   HandTipLeft tracked
+       HandTipLeft at -0.235288,-0.0567816,2.13005
+   Left thumb tracked
+       Left thumb at -0.234513,-0.0262871,2.146
+   HandTipRight tracked
+       HandTipRight at 0.387662,-0.0788525,2.08902
+   Right thumb tracked
+       Right thumb at 0.382852,-0.0359454,2.11263
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at 0.0759702,0.0344506,2.19848
+   SpineMid tracked
+       SpineMid at 0.0811335,0.370334,2.19538
+   Neck tracked
+       Neck at 0.0861816,0.693058,2.17862
+   Head tracked
+       Head at 0.107478,0.84215,2.14637
+   Left shoulder tracked
+       Left Shoulder at -0.0781738,0.563348,2.18772
+   ElbowLeft tracked
+       ElbowLeft at -0.155177,0.311549,2.23048
+   WristLeft tracked
+       WristLeft at -0.210728,0.104538,2.17043
+   Left hand tracked
+       Left hand at -0.228248,0.0110316,2.13864
+   Right shoulder tracked
+       Right Shouler at 0.250381,0.538126,2.14534
+   ElbowRight tracked
+       ElbowRight at 0.327443,0.305134,2.19279
+   WristRight tracked
+       WristRight at 0.370343,0.0811666,2.13226
+   Right hand tracked
+       Right hand at 0.375585,-0.00433455,2.09971
+   HipLeft tracked
+       HipLeft at -0.00149053,0.0359808,2.16819
+   KneeLeft tracked
+       KneeLeft at -0.0658583,-0.378287,2.17783
+   AnkleLeft tracked
+       AnkleLeft at -0.108591,-0.75281,2.18219
+   FootLeft tracked
+       FootLeft at -0.138595,-0.811566,2.05252
+   HipRight tracked
+       HipRight at 0.150763,0.0316939,2.15072
+   KneeRight tracked
+       KneeRight at 0.21379,-0.372021,2.18471
+   AnkleRight tracked
+       AnkleRight at 0.251647,-0.74893,2.21295
+   FootRight tracked
+       FootRight at 0.263862,-0.821507,2.13961
+   SpineShoulder tracked
+      SpineShoulder at 0.0849997,0.614225,2.1851
+   HandTipLeft tracked
+       HandTipLeft at -0.234972,-0.0567065,2.12718
+   Left thumb tracked
+       Left thumb at -0.238551,0.00932152,2.1495
+   HandTipRight tracked
+       HandTipRight at 0.386018,-0.0838945,2.08522
+   Right thumb tracked
+       Right thumb at 0.379345,-0.0360519,2.1114
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at 0.0750189,0.0336564,2.19797
+   SpineMid tracked
+       SpineMid at 0.0805111,0.369517,2.19462
+   Neck tracked
+       Neck at 0.0854833,0.691736,2.17813
+   Head tracked
+       Head at 0.0994157,0.842192,2.14276
+   Left shoulder tracked
+       Left Shoulder at -0.0804722,0.561823,2.1896
+   ElbowLeft tracked
+       ElbowLeft at -0.154617,0.307993,2.23014
+   WristLeft tracked
+       WristLeft at -0.211599,0.10157,2.16979
+   Left hand tracked
+       Left hand at -0.23028,0.0108082,2.14054
+   Right shoulder tracked
+       Right Shouler at 0.249874,0.537631,2.14303
+   ElbowRight tracked
+       ElbowRight at 0.327448,0.305968,2.19069
+   WristRight tracked
+       WristRight at 0.369879,0.0824239,2.12927
+   Right hand tracked
+       Right hand at 0.375422,-0.00534236,2.09838
+   HipLeft tracked
+       HipLeft at -0.00247781,0.0351218,2.16801
+   KneeLeft tracked
+       KneeLeft at -0.0663861,-0.380239,2.17813
+   AnkleLeft tracked
+       AnkleLeft at -0.108776,-0.753086,2.18209
+   FootLeft tracked
+       FootLeft at -0.138298,-0.811224,2.0518
+   HipRight tracked
+       HipRight at 0.149758,0.0309755,2.14979
+   KneeRight tracked
+       KneeRight at 0.213645,-0.370621,2.18428
+   AnkleRight tracked
+       AnkleRight at 0.251298,-0.749198,2.21291
+   FootRight tracked
+       FootRight at 0.26405,-0.821163,2.13854
+   SpineShoulder tracked
+      SpineShoulder at 0.0843315,0.613051,2.18451
+   HandTipLeft tracked
+       HandTipLeft at -0.236536,-0.057394,2.13146
+   Left thumb tracked
+       Left thumb at -0.237683,0.018112,2.15104
+   HandTipRight tracked
+       HandTipRight at 0.385913,-0.0838691,2.08462
+   Right thumb tracked
+       Right thumb at 0.38235,-0.0306791,2.117
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at 0.0783122,0.0352486,2.1945
+   SpineMid tracked
+       SpineMid at 0.0890312,0.374369,2.18582
+   Neck tracked
+       Neck at 0.0991394,0.699984,2.16407
+   Head tracked
+       Head at 0.123804,0.848909,2.14412
+   Left shoulder tracked
+       Left Shoulder at -0.0664703,0.568848,2.17201
+   ElbowLeft tracked
+       ElbowLeft at -0.150742,0.329266,2.21634
+   WristLeft tracked
+       WristLeft at -0.2131,0.108706,2.15758
+   Left hand tracked
+       Left hand at -0.23198,0.0182101,2.12513
+   Right shoulder tracked
+       Right Shouler at 0.257911,0.537744,2.13616
+   ElbowRight tracked
+       ElbowRight at 0.331899,0.300681,2.1825
+   WristRight tracked
+       WristRight at 0.369564,0.0762712,2.12521
+   Right hand tracked
+       Right hand at 0.374186,-0.0099443,2.08963
+   HipLeft tracked
+       HipLeft at 0.00124349,0.0379609,2.16177
+   KneeLeft tracked
+       KneeLeft at -0.0653312,-0.376079,2.17582
+   AnkleLeft tracked
+       AnkleLeft at -0.109018,-0.75284,2.18155
+   FootLeft tracked
+       FootLeft at -0.139308,-0.812172,2.05242
+   HipRight tracked
+       HipRight at 0.152634,0.0315361,2.14855
+   KneeRight tracked
+       KneeRight at 0.21415,-0.370245,2.18335
+   AnkleRight tracked
+       AnkleRight at 0.251228,-0.748119,2.21336
+   FootRight tracked
+       FootRight at 0.264377,-0.821309,2.13819
+   SpineShoulder tracked
+      SpineShoulder at 0.0967392,0.620457,2.17176
+   HandTipLeft tracked
+       HandTipLeft at -0.236799,-0.0505458,2.11657
+   Left thumb tracked
+       Left thumb at -0.242627,0.0385036,2.14637
+   HandTipRight tracked
+       HandTipRight at 0.383478,-0.0897708,2.07746
+   Right thumb tracked
+       Right thumb at 0.377221,-0.0578817,2.09738
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at 0.0486539,0.0363342,2.20116
+   SpineMid tracked
+       SpineMid at 0.0285973,0.3645,2.17239
+   Neck tracked
+       Neck at 0.00639403,0.677665,2.12698
+   Head tracked
+       Head at -0.0252408,0.824779,2.07591
+   Left shoulder tracked
+       Left Shoulder at -0.156474,0.547532,2.18415
+   ElbowLeft tracked
+       ElbowLeft at -0.188307,0.304432,2.26627
+   WristLeft tracked
+       WristLeft at -0.230263,0.0840591,2.21878
+   Left hand tracked
+       Left hand at -0.240409,-0.0128364,2.17251
+   Right shoulder tracked
+       Right Shouler at 0.17169,0.550655,2.08959
+   ElbowRight tracked
+       ElbowRight at 0.310791,0.324917,2.14642
+   WristRight tracked
+       WristRight at 0.372267,0.112712,2.08511
+   Right hand tracked
+       Right hand at 0.383801,0.0299192,2.05434
+   HipLeft tracked
+       HipLeft at -0.0272681,0.0330445,2.18015
+   KneeLeft tracked
+       KneeLeft at -0.0775497,-0.382834,2.1811
+   AnkleLeft tracked
+       AnkleLeft at -0.110236,-0.75212,2.18166
+   FootLeft tracked
+       FootLeft at -0.137674,-0.811516,2.05185
+   HipRight tracked
+       HipRight at 0.122298,0.0382149,2.14458
+   KneeRight tracked
+       KneeRight at 0.206524,-0.368297,2.17814
+   AnkleRight tracked
+       AnkleRight at 0.252339,-0.744454,2.21048
+   FootRight tracked
+       FootRight at 0.262306,-0.822516,2.14161
+   SpineShoulder tracked
+      SpineShoulder at 0.0119654,0.601306,2.14078
+   HandTipLeft tracked
+       HandTipLeft at -0.24494,-0.0772807,2.15878
+   Left thumb tracked
+       Left thumb at -0.25275,-0.027072,2.17964
+   HandTipRight tracked
+       HandTipRight at 0.402425,-0.0476328,2.05469
+   Right thumb tracked
+       Right thumb at 0.373024,0.0151987,2.063
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at -0.0624528,0.0214945,2.21428
+   SpineMid tracked
+       SpineMid at -0.155416,0.329424,2.15229
+   Neck tracked
+       Neck at -0.244659,0.625121,2.0767
+   Head tracked
+       Head at -0.311806,0.756522,2.00691
+   Left shoulder tracked
+       Left Shoulder at -0.371547,0.482637,2.14686
+   ElbowLeft tracked
+       ElbowLeft at -0.358198,0.223783,2.24235
+   WristLeft tracked
+       WristLeft at -0.39096,-0.0175284,2.16004
+   Left hand tracked
+       Left hand at -0.39829,-0.108615,2.13478
+   Right shoulder tracked
+       Right Shouler at -0.0711975,0.549641,2.04947
+   ElbowRight tracked
+       ElbowRight at 0.104969,0.365597,2.10609
+   WristRight tracked
+       WristRight at 0.155753,0.158699,2.00654
+   Right hand tracked
+       Right hand at 0.154674,0.0797819,1.96363
+   HipLeft tracked
+       HipLeft at -0.130977,0.00487876,2.19732
+   KneeLeft tracked
+       KneeLeft at -0.147175,-0.397114,2.20237
+   AnkleLeft tracked
+       AnkleLeft at -0.118817,-0.734782,2.19184
+   FootLeft tracked
+       FootLeft at -0.134909,-0.803299,2.06586
+   HipRight tracked
+       HipRight at 0.00812592,0.0372927,2.15315
+   KneeRight tracked
+       KneeRight at 0.1274,-0.383076,2.14972
+   AnkleRight tracked
+       AnkleRight at 0.188117,-0.746938,2.1839
+   FootRight tracked
+       FootRight at 0.16682,-0.798002,2.06475
+   SpineShoulder tracked
+      SpineShoulder at -0.222929,0.552955,2.09791
+   HandTipLeft tracked
+       HandTipLeft at -0.392502,-0.168585,2.12927
+   Left thumb tracked
+       Left thumb at -0.374694,-0.14694,2.16767
+   HandTipRight tracked
+       HandTipRight at 0.170512,0.00421895,1.94763
+   Right thumb tracked
+       Right thumb at 0.137754,0.0743877,1.98375
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at -0.102126,0.0167466,2.22125
+   SpineMid tracked
+       SpineMid at -0.174458,0.328947,2.1568
+   Neck tracked
+       Neck at -0.241676,0.63089,2.08042
+   Head tracked
+       Head at -0.270871,0.775882,2.01921
+   Left shoulder tracked
+       Left Shoulder at -0.363515,0.495006,2.14883
+   ElbowLeft tracked
+       ElbowLeft at -0.404354,0.259207,2.1946
+   WristLeft tracked
+       WristLeft at -0.447196,0.0390305,2.12644
+   Left hand tracked
+       Left hand at -0.471901,-0.059329,2.08519
+   Right shoulder tracked
+       Right Shouler at -0.0557499,0.553842,2.05779
+   ElbowRight tracked
+       ElbowRight at 0.106147,0.374097,2.11009
+   WristRight tracked
+       WristRight at 0.141,0.15996,1.98479
+   Right hand tracked
+       Right hand at 0.15726,0.0839029,1.93762
+   HipLeft tracked
+       HipLeft at -0.17088,0.00841527,2.19961
+   KneeLeft tracked
+       KneeLeft at -0.160375,-0.438186,2.21277
+   AnkleLeft tracked
+       AnkleLeft at -0.109905,-0.748093,2.17957
+   FootLeft tracked
+       FootLeft at -0.115243,-0.809043,2.04621
+   HipRight tracked
+       HipRight at -0.0286644,0.0256094,2.16556
+   KneeRight tracked
+       KneeRight at 0.0660699,-0.412224,2.15199
+   AnkleRight tracked
+       AnkleRight at 0.110179,-0.748863,2.2124
+   FootRight tracked
+       FootRight at 0.0818633,-0.833235,2.24631
+   SpineShoulder tracked
+      SpineShoulder at -0.225639,0.556996,2.1016
+   HandTipLeft tracked
+       HandTipLeft at -0.476657,-0.124209,2.06999
+   Left thumb tracked
+       Left thumb at -0.493191,-0.0227329,2.11057
+   HandTipRight tracked
+       HandTipRight at 0.168736,0.0116042,1.9071
+   Right thumb tracked
+       Right thumb at 0.12268,0.07497,1.90414
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at 0.0778914,-0.0202468,2.31275
+   SpineMid tracked
+       SpineMid at 0.079672,0.273799,2.19595
+   Neck tracked
+       Neck at 0.0817851,0.553461,2.064
+   Head tracked
+       Head at 0.0612909,0.694197,1.98137
+   Left shoulder tracked
+       Left Shoulder at -0.0860707,0.462778,2.11246
+   ElbowLeft tracked
+       ElbowLeft at -0.21781,0.251904,2.16284
+   WristLeft tracked
+       WristLeft at -0.279757,0.0454646,2.09838
+   Left hand tracked
+       Left hand at -0.299283,-0.0545464,2.05455
+   Right shoulder tracked
+       Right Shouler at 0.232319,0.451358,2.05769
+   ElbowRight tracked
+       ElbowRight at 0.387446,0.244361,2.10925
+   WristRight tracked
+       WristRight at 0.441455,0.0166193,2.03538
+   Right hand tracked
+       Right hand at 0.444101,-0.0695609,1.9935
+   HipLeft tracked
+       HipLeft at -0.00753301,-0.0173508,2.28227
+   KneeLeft tracked
+       KneeLeft at -0.0757289,-0.411395,2.15964
+   AnkleLeft tracked
+       AnkleLeft at -0.103625,-0.748108,2.182
+   FootLeft tracked
+       FootLeft at -0.118346,-0.810769,2.05108
+   HipRight tracked
+       HipRight at 0.160764,-0.0224922,2.26521
+   KneeRight tracked
+       KneeRight at 0.194662,-0.396119,2.13868
+   AnkleRight tracked
+       AnkleRight at 0.195352,-0.757728,2.19335
+   FootRight tracked
+       FootRight at 0.214394,-0.817677,2.06168
+   SpineShoulder tracked
+      SpineShoulder at 0.0813057,0.485384,2.09968
+   HandTipLeft tracked
+       HandTipLeft at -0.322031,-0.116354,2.03576
+   Left thumb tracked
+       Left thumb at -0.334665,-0.0756614,2.058
+   HandTipRight tracked
+       HandTipRight at 0.464883,-0.138676,1.96947
+   Right thumb tracked
+       Right thumb at 0.412317,-0.0874787,1.99324
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at 0.0469009,-0.0668944,2.35316
+   SpineMid tracked
+       SpineMid at 0.0429945,0.224276,2.19857
+   Neck tracked
+       Neck at 0.0390963,0.507329,2.0313
+   Head tracked
+       Head at 0.019456,0.650549,1.95274
+   Left shoulder tracked
+       Left Shoulder at -0.120953,0.403403,2.06908
+   ElbowLeft tracked
+       ElbowLeft at -0.252981,0.188446,2.19049
+   WristLeft tracked
+       WristLeft at -0.274029,-0.0207762,2.08926
+   Left hand tracked
+       Left hand at -0.288965,-0.113363,2.05362
+   Right shoulder tracked
+       Right Shouler at 0.195875,0.395751,2.02706
+   ElbowRight tracked
+       ElbowRight at 0.338338,0.190806,2.09903
+   WristRight tracked
+       WristRight at 0.384601,-0.0379744,2.05905
+   Right hand tracked
+       Right hand at 0.395209,-0.1176,2.02882
+   HipLeft tracked
+       HipLeft at -0.0343238,-0.0641357,2.32113
+   KneeLeft tracked
+       KneeLeft at -0.128248,-0.345447,2.07295
+   AnkleLeft tracked
+       AnkleLeft at -0.134612,-0.767031,2.1225
+   FootLeft tracked
+       FootLeft at -0.143518,-0.824331,2.1424
+   HipRight tracked
+       HipRight at 0.126597,-0.0673836,2.30713
+   KneeRight tracked
+       KneeRight at 0.19289,-0.340552,2.03932
+   AnkleRight tracked
+       AnkleRight at 0.208139,-0.757698,2.11142
+   FootRight tracked
+       FootRight at 0.193937,-0.819339,2.00079
+   SpineShoulder tracked
+      SpineShoulder at 0.0400843,0.43798,2.0754
+   HandTipLeft tracked
+       HandTipLeft at -0.297834,-0.181687,2.03659
+   Left thumb tracked
+       Left thumb at -0.329053,-0.127382,2.08125
+   HandTipRight tracked
+       HandTipRight at 0.410776,-0.198092,2.01863
+   Right thumb tracked
+       Right thumb at 0.362438,-0.114717,2.04147
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at 0.0415832,0.0340603,2.19419
+   SpineMid tracked
+       SpineMid at 0.0468277,0.368714,2.17376
+   Neck tracked
+       Neck at 0.0538867,0.691816,2.14107
+   Head tracked
+       Head at 0.0546488,0.843776,2.10664
+   Left shoulder tracked
+       Left Shoulder at -0.122757,0.559491,2.13529
+   ElbowLeft tracked
+       ElbowLeft at -0.208832,0.342331,2.22693
+   WristLeft tracked
+       WristLeft at -0.261879,0.132384,2.13579
+   Left hand tracked
+       Left hand at -0.288414,0.0401916,2.08071
+   Right shoulder tracked
+       Right Shouler at 0.208963,0.546101,2.09809
+   ElbowRight tracked
+       ElbowRight at 0.328702,0.331706,2.16153
+   WristRight tracked
+       WristRight at 0.379656,0.110311,2.08359
+   Right hand tracked
+       Right hand at 0.388097,0.0287752,2.03689
+   HipLeft tracked
+       HipLeft at -0.0356513,0.0366181,2.16514
+   KneeLeft tracked
+       KneeLeft at -0.0900328,-0.43018,2.17395
+   AnkleLeft tracked
+       AnkleLeft at -0.0998727,-0.761824,2.18476
+   FootLeft tracked
+       FootLeft at -0.114722,-0.819517,2.0503
+   HipRight tracked
+       HipRight at 0.117448,0.0303347,2.14496
+   KneeRight tracked
+       KneeRight at 0.170312,-0.385962,2.18002
+   AnkleRight tracked
+       AnkleRight at 0.183722,-0.750387,2.20242
+   FootRight tracked
+       FootRight at 0.171944,-0.791272,2.07497
+   SpineShoulder tracked
+      SpineShoulder at 0.0523123,0.613019,2.151
+   HandTipLeft tracked
+       HandTipLeft at -0.299165,-0.0258049,2.06001
+   Left thumb tracked
+       Left thumb at -0.295145,0.0399851,2.09678
+   HandTipRight tracked
+       HandTipRight at 0.404895,-0.0478183,2.00971
+   Right thumb tracked
+       Right thumb at 0.366851,0.00474622,1.99268
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at 0.0401533,-0.130221,2.30418
+   SpineMid tracked
+       SpineMid at 0.0465224,0.179888,2.18723
+   Neck tracked
+       Neck at 0.0523945,0.479337,2.05753
+   Head tracked
+       Head at 0.0444972,0.625151,1.98205
+   Left shoulder tracked
+       Left Shoulder at -0.111852,0.372083,2.08898
+   ElbowLeft tracked
+       ElbowLeft at -0.241681,0.156484,2.13984
+   WristLeft tracked
+       WristLeft at -0.333357,-0.0891465,2.06588
+   Left hand tracked
+       Left hand at -0.365178,-0.156033,2.04361
+   Right shoulder tracked
+       Right Shouler at 0.210704,0.354994,2.04989
+   ElbowRight tracked
+       ElbowRight at 0.34643,0.138789,2.1026
+   WristRight tracked
+       WristRight at 0.404214,-0.0685737,2.03817
+   Right hand tracked
+       Right hand at 0.41789,-0.158992,1.99518
+   HipLeft tracked
+       HipLeft at -0.0412324,-0.125416,2.27038
+   KneeLeft tracked
+       KneeLeft at -0.163698,-0.359895,1.98434
+   AnkleLeft tracked
+       AnkleLeft at -0.148664,-0.765411,2.09914
+   FootLeft tracked
+       FootLeft at -0.15727,-0.825957,1.98767
+   HipRight tracked
+       HipRight at 0.120244,-0.130723,2.26004
+   KneeRight tracked
+       KneeRight at 0.229826,-0.343501,1.9505
+   AnkleRight tracked
+       AnkleRight at 0.229801,-0.748453,2.06824
+   FootRight tracked
+       FootRight at 0.213359,-0.809255,1.95719
+   SpineShoulder tracked
+      SpineShoulder at 0.0510078,0.406098,2.09233
+   HandTipLeft tracked
+       HandTipLeft at -0.40022,-0.219834,2.04592
+   Left thumb tracked
+       Left thumb at -0.408825,-0.174344,2.055
+   HandTipRight tracked
+       HandTipRight at 0.43828,-0.220181,1.96524
+   Right thumb tracked
+       Right thumb at 0.387975,-0.163347,2.02883
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at 0.0344633,0.0206637,2.26878
+   SpineMid tracked
+       SpineMid at 0.0375627,0.345145,2.21174
+   Neck tracked
+       Neck at 0.0398316,0.660198,2.13434
+   Head tracked
+       Head at 0.0319411,0.812299,2.08803
+   Left shoulder tracked
+       Left Shoulder at -0.125127,0.540081,2.15902
+   ElbowLeft tracked
+       ElbowLeft at -0.256183,0.336324,2.26278
+   WristLeft tracked
+       WristLeft at -0.299325,0.101762,2.14077
+   Left hand tracked
+       Left hand at -0.324842,0.0198218,2.11103
+   Right shoulder tracked
+       Right Shouler at 0.20311,0.526365,2.11528
+   ElbowRight tracked
+       ElbowRight at 0.335346,0.312027,2.16574
+   WristRight tracked
+       WristRight at 0.395935,0.0965088,2.09888
+   Right hand tracked
+       Right hand at 0.40933,0.0164251,2.06494
+   HipLeft tracked
+       HipLeft at -0.0457197,0.0219059,2.24154
+   KneeLeft tracked
+       KneeLeft at -0.105067,-0.45039,2.18315
+   AnkleLeft tracked
+       AnkleLeft at -0.10471,-0.764241,2.1836
+   FootLeft tracked
+       FootLeft at -0.119486,-0.822758,2.04975
+   HipRight tracked
+       HipRight at 0.11351,0.0188357,2.21777
+   KneeRight tracked
+       KneeRight at 0.173823,-0.402717,2.17476
+   AnkleRight tracked
+       AnkleRight at 0.189444,-0.762403,2.20428
+   FootRight tracked
+       FootRight at 0.175385,-0.808065,2.08017
+   SpineShoulder tracked
+      SpineShoulder at 0.0393453,0.582457,2.15567
+   HandTipLeft tracked
+       HandTipLeft at -0.334889,-0.0501808,2.10286
+   Left thumb tracked
+       Left thumb at -0.336747,0.0101998,2.1325
+   HandTipRight tracked
+       HandTipRight at 0.430812,-0.0598406,2.04257
+   Right thumb tracked
+       Right thumb at 0.387428,-0.00491451,2.02307
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at 0.0197216,0.0342608,2.22766
+   SpineMid tracked
+       SpineMid at 0.0331082,0.369783,2.22501
+   Neck tracked
+       Neck at 0.0445153,0.693575,2.20502
+   Head tracked
+       Head at 0.0505555,0.847685,2.17904
+   Left shoulder tracked
+       Left Shoulder at -0.12339,0.557092,2.20299
+   ElbowLeft tracked
+       ElbowLeft at -0.249495,0.343046,2.28633
+   WristLeft tracked
+       WristLeft at -0.29062,0.141883,2.19711
+   Left hand tracked
+       Left hand at -0.317564,0.056173,2.14147
+   Right shoulder tracked
+       Right Shouler at 0.202764,0.539896,2.17747
+   ElbowRight tracked
+       ElbowRight at 0.303375,0.321372,2.22236
+   WristRight tracked
+       WristRight at 0.358025,0.0964406,2.14557
+   Right hand tracked
+       Right hand at 0.365942,0.0151878,2.10531
+   HipLeft tracked
+       HipLeft at -0.0584124,0.0378266,2.19491
+   KneeLeft tracked
+       KneeLeft at -0.100062,-0.381787,2.17511
+   AnkleLeft tracked
+       AnkleLeft at -0.11526,-0.757895,2.18314
+   FootLeft tracked
+       FootLeft at -0.14208,-0.82076,2.06089
+   HipRight tracked
+       HipRight at 0.0973052,0.0296327,2.18198
+   KneeRight tracked
+       KneeRight at 0.159914,-0.407816,2.19046
+   AnkleRight tracked
+       AnkleRight at 0.185569,-0.755636,2.20271
+   FootRight tracked
+       FootRight at 0.198447,-0.827059,2.12985
+   SpineShoulder tracked
+      SpineShoulder at 0.0415852,0.614245,2.21131
+   HandTipLeft tracked
+       HandTipLeft at -0.327355,-0.00937923,2.1201
+   Left thumb tracked
+       Left thumb at -0.33452,0.0681464,2.16372
+   HandTipRight tracked
+       HandTipRight at 0.389786,-0.0615432,2.07314
+   Right thumb tracked
+       Right thumb at 0.362523,-0.00666272,2.11369
+25 joints tracked
+
+Body 4 tracked!
+   SpineBase tracked
+       SpineBase at 0.0907422,0.0337443,2.23778
+   SpineMid tracked
+       SpineMid at 0.0929335,0.366231,2.23156
+   Neck tracked
+       Neck at 0.095975,0.685668,2.21344
+   Head tracked
+       Head at 0.0996445,0.840084,2.18474
+   Left shoulder tracked
+       Left Shoulder at -0.0672644,0.55325,2.23889
+   ElbowLeft tracked
+       ElbowLeft at -0.142421,0.310106,2.31229
+   WristLeft tracked
+       WristLeft at -0.216248,0.105118,2.2745
+   Left hand tracked
+       Left hand at -0.246469,0.0378116,2.24099
+   Right shoulder tracked
+       Right Shouler at 0.26167,0.53816,2.16835
+   ElbowRight tracked
+       ElbowRight at 0.384053,0.323715,2.21437
+   WristRight tracked
+       WristRight at 0.450739,0.106557,2.14329
+   Right hand tracked
+       Right hand at 0.475162,0.0329711,2.1031
+   HipLeft tracked
+       HipLeft at 0.0138015,0.0329313,2.21435
+   KneeLeft tracked
+       KneeLeft at -0.0726126,-0.371311,2.15698
+   AnkleLeft tracked
+       AnkleLeft at -0.1571,-0.772453,2.16235
+   FootLeft tracked
+       FootLeft at -0.17026,-0.830806,2.06899
+   HipRight tracked
+       HipRight at 0.165522,0.0332582,2.18381
+   KneeRight tracked
+       KneeRight at 0.202457,-0.370054,2.18107
+   AnkleRight tracked
+       AnkleRight at 0.197048,-0.746333,2.20181
+   FootRight tracked
+       FootRight at 0.218243,-0.81892,2.08506
+   SpineShoulder tracked
+      SpineShoulder at 0.095328,0.607792,2.22029
+   HandTipLeft tracked
+       HandTipLeft at -0.260629,-0.0415357,2.19657
+   Left thumb tracked
+       Left thumb at -0.327825,0.0548515,2.30788
+   HandTipRight tracked
+       HandTipRight at 0.505614,-0.0488058,2.08909
+   Right thumb tracked
+       Right thumb at 0.496679,-0.0207482,2.11517
+25 joints tracked
+
